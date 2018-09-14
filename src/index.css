@@ -2,7 +2,7 @@ body {
   background-color: lightBlue;
 }
 .lesson1 {
-    background-color: #4CAF50; /* Green */
+    background-color: purple; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -13,6 +13,16 @@ body {
 }
 .lesson2 {
     background-color: purple; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.lessond1 {
+    background-color: blue; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
