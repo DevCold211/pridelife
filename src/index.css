@@ -2,7 +2,27 @@ body {
   background-color: lightBlue;
 }
 .lesson1 {
-    background-color: #4CAF50; /* Green */
+    background-color: #ff66ff; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.lesson2 {
+    background-color: #ff66ff; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.lessond1 {
+    background-color: #ff66ff; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
